@@ -1,0 +1,8 @@
+{
+  "name": "dat-gui-light-theme",
+  "version": "1.0.0",
+  "description": "light theme for dat.gui",
+  "dependencies": {
+  "dat.gui":"^0.6.1"
+  }
+}
